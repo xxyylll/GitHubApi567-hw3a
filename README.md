@@ -1,6 +1,4 @@
-[![CircleCI](https://circleci.com/gh/xxyylll/GitHubApi567-hw3a/tree/HW03a_Mocking.svg?style=svg)](https://circleci.com/gh/xxyylll/GitHubApi567-hw3a/tree/HW03a_Mocking)
-
-This branch replaces live tests with fully mocked unit tests using `unittest.mock`; no real GitHub API calls are made.
+[![CircleCI](https://circleci.com/gh/xxyylll/GitHubApi567-hw3a.svg?style=svg)](https://circleci.com/gh/xxyylll/GitHubApi567-hw3a)
 
 
 This folder contains a simplified GitHub API helper script `HW3a_github_api.py`.
