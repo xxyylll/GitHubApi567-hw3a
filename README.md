@@ -1,4 +1,5 @@
-[![CircleCI](https://circleci.com/gh/xxyylll/GitHubApi567-hw3a.svg?style=svg)](https://circleci.com/gh/xxyylll/GitHubApi567-hw3a)
+[![CircleCI](https://circleci.com/gh/xxyylll/GitHubApi567-hw3a/tree/HW03a_Mocking.svg?style=svg)](https://circleci.com/gh/xxyylll/GitHubApi567-hw3a/tree/HW03a_Mocking)
+
 
 
 This folder contains a simplified GitHub API helper script `HW3a_github_api.py`.
